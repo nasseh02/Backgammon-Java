@@ -1,2 +1,2 @@
-# Backgammon-Java
-Backgammon Game recreated in Java
+# Backgammon
+Backgammon: Manny, Dami &amp; Ciaran, Group 17
